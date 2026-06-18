@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "date": "2026-04-20T09:00:00.000Z",
+    "routine": "Pierna",
+    "durationSec": 2400,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 50, "reps": 10 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 50, "reps": 10 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 50, "reps": 9 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 1, "weightKg": 120, "reps": 12 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 2, "weightKg": 120, "reps": 12 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 1, "weightKg": 40, "reps": 15 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 2, "weightKg": 40, "reps": 14 }
+    ]
+  },
+  {
+    "date": "2026-05-04T09:30:00.000Z",
+    "routine": "Pierna",
+    "durationSec": 2520,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 52.5, "reps": 10 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 52.5, "reps": 9 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 52.5, "reps": 9 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 1, "weightKg": 130, "reps": 12 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 2, "weightKg": 130, "reps": 11 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 1, "weightKg": 42.5, "reps": 15 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 2, "weightKg": 42.5, "reps": 13 }
+    ]
+  },
+  {
+    "date": "2026-05-18T10:00:00.000Z",
+    "routine": "Pierna",
+    "durationSec": 2640,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 55, "reps": 10 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 55, "reps": 9 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 55, "reps": 8 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 1, "weightKg": 140, "reps": 12 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 2, "weightKg": 140, "reps": 10 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 1, "weightKg": 45, "reps": 15 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 2, "weightKg": 45, "reps": 14 }
+    ]
+  },
+  {
+    "date": "2026-06-01T09:00:00.000Z",
+    "routine": "Pierna",
+    "durationSec": 2700,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 57.5, "reps": 9 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 57.5, "reps": 9 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 57.5, "reps": 8 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 1, "weightKg": 150, "reps": 12 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 2, "weightKg": 150, "reps": 10 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 1, "weightKg": 47.5, "reps": 15 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 2, "weightKg": 47.5, "reps": 13 }
+    ]
+  },
+  {
+    "date": "2026-06-15T09:30:00.000Z",
+    "routine": "Pierna",
+    "durationSec": 2820,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 60, "reps": 9 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 60, "reps": 8 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 60, "reps": 8 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 1, "weightKg": 160, "reps": 12 },
+      { "exerciseSlug": "prensa", "exerciseName": "Prensa", "setIndex": 2, "weightKg": 160, "reps": 10 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 1, "weightKg": 50, "reps": 15 },
+      { "exerciseSlug": "extension-cuadriceps", "exerciseName": "Extension Cuadriceps", "setIndex": 2, "weightKg": 50, "reps": 12 }
+    ]
+  }
+]

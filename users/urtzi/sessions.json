@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "date": "2026-04-10T18:00:00.000Z",
+    "routine": "Full Body",
+    "durationSec": 2700,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 80, "reps": 6 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 80, "reps": 6 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 80, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 1, "weightKg": 100, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 2, "weightKg": 100, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 3, "weightKg": 100, "reps": 4 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 1, "weightKg": 32, "reps": 10 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 2, "weightKg": 32, "reps": 10 }
+    ]
+  },
+  {
+    "date": "2026-04-17T18:30:00.000Z",
+    "routine": "Full Body",
+    "durationSec": 2880,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 82.5, "reps": 6 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 82.5, "reps": 5 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 82.5, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 1, "weightKg": 102.5, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 2, "weightKg": 102.5, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 3, "weightKg": 102.5, "reps": 4 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 1, "weightKg": 34, "reps": 10 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 2, "weightKg": 34, "reps": 9 }
+    ]
+  },
+  {
+    "date": "2026-05-01T18:00:00.000Z",
+    "routine": "Full Body",
+    "durationSec": 3000,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 85, "reps": 6 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 85, "reps": 6 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 85, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 1, "weightKg": 105, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 2, "weightKg": 105, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 3, "weightKg": 105, "reps": 4 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 1, "weightKg": 36, "reps": 10 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 2, "weightKg": 36, "reps": 10 }
+    ]
+  },
+  {
+    "date": "2026-05-15T19:00:00.000Z",
+    "routine": "Full Body",
+    "durationSec": 2940,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 87.5, "reps": 5 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 87.5, "reps": 5 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 87.5, "reps": 4 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 1, "weightKg": 110, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 2, "weightKg": 110, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 3, "weightKg": 110, "reps": 3 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 1, "weightKg": 38, "reps": 10 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 2, "weightKg": 38, "reps": 9 }
+    ]
+  },
+  {
+    "date": "2026-06-03T18:00:00.000Z",
+    "routine": "Full Body",
+    "durationSec": 3120,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 90, "reps": 5 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 90, "reps": 5 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 90, "reps": 4 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 1, "weightKg": 112.5, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 2, "weightKg": 112.5, "reps": 4 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 3, "weightKg": 112.5, "reps": 4 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 1, "weightKg": 40, "reps": 10 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 2, "weightKg": 40, "reps": 10 }
+    ]
+  },
+  {
+    "date": "2026-06-17T18:30:00.000Z",
+    "routine": "Full Body",
+    "durationSec": 3180,
+    "sets": [
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 1, "weightKg": 92.5, "reps": 5 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 2, "weightKg": 92.5, "reps": 5 },
+      { "exerciseSlug": "press-banca", "exerciseName": "Press Banca", "setIndex": 3, "weightKg": 92.5, "reps": 4 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 1, "weightKg": 115, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 2, "weightKg": 115, "reps": 5 },
+      { "exerciseSlug": "sentadilla-barra", "exerciseName": "Sentadilla Barra", "setIndex": 3, "weightKg": 115, "reps": 4 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 1, "weightKg": 42, "reps": 10 },
+      { "exerciseSlug": "peso-muerto-rumano-mancuernas", "exerciseName": "Peso Muerto Rumano (Mancuernas)", "setIndex": 2, "weightKg": 42, "reps": 9 }
+    ]
+  }
+]
