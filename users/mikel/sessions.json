@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "date": "2026-06-19T06:24:58.167Z",
+    "routine": "Pierna",
+    "durationSec": 3442,
+    "sets": [
+      {
+        "exerciseSlug": "adductor",
+        "exerciseName": "Adductor",
+        "setIndex": 1,
+        "weightKg": 60,
+        "reps": 8
+      },
+      {
+        "exerciseSlug": "adductor",
+        "exerciseName": "Adductor",
+        "setIndex": 2,
+        "weightKg": 60,
+        "reps": 8
+      },
+      {
+        "exerciseSlug": "adductor",
+        "exerciseName": "Adductor",
+        "setIndex": 3,
+        "weightKg": 60,
+        "reps": 8
+      },
+      {
+        "exerciseSlug": "adductor",
+        "exerciseName": "Adductor",
+        "setIndex": 4,
+        "weightKg": 60,
+        "reps": 8
+      },
+      {
+        "exerciseSlug": "abductor",
+        "exerciseName": "Abductor",
+        "setIndex": 1,
+        "weightKg": 60,
+        "reps": 8
+      },
+      {
+        "exerciseSlug": "abductor",
+        "exerciseName": "Abductor",
+        "setIndex": 2,
+        "weightKg": 60,
+        "reps": 8
+      },
+      {
+        "exerciseSlug": "abductor",
+        "exerciseName": "Abductor",
+        "setIndex": 3,
+        "weightKg": 60,
+        "reps": 8
+      },
+      {
+        "exerciseSlug": "abductor",
+        "exerciseName": "Abductor",
+        "setIndex": 4,
+        "weightKg": 60,
+        "reps": 8
+      },
+      {
+        "exerciseSlug": "peso-muerto-rumano-mancuernas",
+        "exerciseName": "Peso Muerto Rumano (Mancuernas",
+        "setIndex": 1,
+        "weightKg": 14,
+        "reps": 12
+      },
+      {
+        "exerciseSlug": "peso-muerto-rumano-mancuernas",
+        "exerciseName": "Peso Muerto Rumano (Mancuernas",
+        "setIndex": 2,
+        "weightKg": 14,
+        "reps": 12
+      },
+      {
+        "exerciseSlug": "peso-muerto-rumano-mancuernas",
+        "exerciseName": "Peso Muerto Rumano (Mancuernas",
+        "setIndex": 3,
+        "weightKg": 14,
+        "reps": 12
+      },
+      {
+        "exerciseSlug": "peso-muerto-rumano-mancuernas",
+        "exerciseName": "Peso Muerto Rumano (Mancuernas",
+        "setIndex": 4,
+        "weightKg": 14,
+        "reps": 12
+      },
+      {
+        "exerciseSlug": "sentadilla-barra",
+        "exerciseName": "Sentadilla Barra",
+        "setIndex": 1,
+        "weightKg": 15,
+        "reps": 10
+      },
+      {
+        "exerciseSlug": "sentadilla-barra",
+        "exerciseName": "Sentadilla Barra",
+        "setIndex": 2,
+        "weightKg": 15,
+        "reps": 10
+      },
+      {
+        "exerciseSlug": "sentadilla-barra",
+        "exerciseName": "Sentadilla Barra",
+        "setIndex": 3,
+        "weightKg": 15,
+        "reps": 10
+      },
+      {
+        "exerciseSlug": "sentadilla-barra",
+        "exerciseName": "Sentadilla Barra",
+        "setIndex": 4,
+        "weightKg": 15,
+        "reps": 10
+      },
+      {
+        "exerciseSlug": "prensa",
+        "exerciseName": "Prensa",
+        "setIndex": 1,
+        "weightKg": 40,
+        "reps": 8
+      },
+      {
+        "exerciseSlug": "prensa",
+        "exerciseName": "Prensa",
+        "setIndex": 2,
+        "weightKg": 40,
+        "reps": 12
+      },
+      {
+        "exerciseSlug": "prensa",
+        "exerciseName": "Prensa",
+        "setIndex": 3,
+        "weightKg": 40,
+        "reps": 6
+      },
+      {
+        "exerciseSlug": "extension-cuadriceps",
+        "exerciseName": "Extension Cuadriceps",
+        "setIndex": 1,
+        "weightKg": 45,
+        "reps": 8
+      }
+    ]
+  }
+]
